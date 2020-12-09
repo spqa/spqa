@@ -1,4 +1,4 @@
-<img  src="https://github-readme-stats.vercel.app/api?username=spqa&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="github stats for spqa">
+<img  src="https://github-readme-stats.vercel.app/api?username=spqa&show_icons=true&theme=dark&hide_title=true&count_private=true&hide_border=true" alt="github stats for spqa">
 
 ### Hi there 👋
 
